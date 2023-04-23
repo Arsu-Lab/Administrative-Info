@@ -19,3 +19,6 @@ Effective feedback from a PI can result in project quality leaping forward. Unfo
 - Ask if you can record, or take notes during the meeting.
 - Send a follow up to the meeting with your TODO list!
 - All emails (for all milestones) should be on the same thread!
+
+## Useful References
+- [Ten Simple Rules for Structuring papers](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005619&type=printable)
