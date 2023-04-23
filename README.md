@@ -11,8 +11,8 @@ A good thesis or research project needs a few ingredients: **a unified narrativ
 ![Thesis Process](./assets/imgs/ResearchProcess.png)
 
 ## Milestone Meetings
-Effective feedback from a PI can result in project quality leaping forward. Unfortunately, PIs are incredibly busy, thus part of doing research is to learn how to 'manage upwards'. This especially comes into play when scheduling a milestone meeting
-:- Ask your supervisor how to get the project ready for the meeting. They will often require you to prepare your slides in specific ways that best highlight the current stage of the project.
+Effective feedback from a PI can result in project quality leaping forward. Unfortunately, PIs are incredibly busy, thus part of doing research is to learn how to 'manage upwards'. This especially comes into play when scheduling a milestone meeting:
+- Ask your supervisor how to get the project ready for the meeting. They will often require you to prepare your slides in specific ways that best highlight the current stage of the project.
 - The slides should not be a wall of text you read off of. Instead focus them around figures and short bullet points. But do prepare 'backup slides' at the end of the presentation with necessary numbers, equations, and algorithm definitions.
 - Make a scheduling poll (using when2meet, Doodle, whenIsGood...) and fill in your availability, making sure there are many options across at least a 10 days period. Then send it via an email to all supervisors and PIs. Briefly describe what the meeting is about (two sentences).
 - After everyone fills in their availability, pick a time, and send an email with a zoom link (or any other video conference app). Preferably also add a calendar invite.
