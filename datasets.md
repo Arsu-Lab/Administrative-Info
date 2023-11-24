@@ -1,6 +1,6 @@
-# A Curated list of *Useful* Datasets
+# A Curated List of *Useful* Datasets
 
-# Computational Neuroscience
+## Computational Neuroscience
 
 | Dataset    | Modality | Description &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Keywords | Links |
 | --------   | -------  | -----------     | -------  | ------- |
