@@ -1,6 +1,6 @@
 # Everything I know
 
-Everything I (or any researcher) know came from papers, and if I ever learned anything in a classroom it did not last. While the literature review is an important part of the research process, starting to engage with a new body of scientific literature can be overwhelming. Therefore, I will be continually curating the following list of papers. While there are no specific criterias, I believe these papers are especially engaging / well-written / fundamental / wild. Realistically, anything clever I ever said is probably a remastered version of ideas you will find here. Read those and you should know everything I know.
+Everything I (or any researcher) know came from papers, and if I ever learned anything in a classroom it did not last. While the literature review is an important part of the research process, starting to engage with a new body of scientific literature can be overwhelming. Therefore, I will be continually curating the following list of papers. While there are no specific criterias, I believe these papers are especially engaging / well-written / fundamental / wild. Being honest, anything clever I ever said is probably a remastered version of ideas you will find here. Read those and you should know everything I know.
 
 If you are a member of the lab, email me and I will send a drive link for pdfs with my own marginalia (I like to think of those scribbles as a very slow conversation).
 
