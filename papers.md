@@ -15,9 +15,15 @@ If you are a member of the lab, email me and I will send a drive link for pdfs w
     * __*Self-supervised learning through the eyes of a child*__: Chomsky talked about the poverty of stimuli as a motivation for the necessity of innate language processes, computational results here complicate this debate.
     * __*Grounded language acquisition through the eyes and ears of a single child*__: Similar ideas, improved execution!
     * __*Helpless infants are learning a foundation model*__: Why are human babies useless? they are training a MMLLM!
-  * ####  __Motor Functions and Embodied Intelligence
+  * ####  __Motor Functions and Embodied Intelligence__
     * __*Your head is there to move you around: Goal-driven models of the primate dorsal pathway*__: All the papers so far focused on the ventral (what / semantic) brain pathway, here we look at the dorsal (motor / movement / where) pathway
     * __*The functional specialization of visual cortex emerges from training parallel pathways with self-supervised predictive learning*__: So your brain has to pathways (we think), should your network?
     * __*Multitask representations in the human cortex transform along a sensory-to-motor hierarchy*__: Follow Takuya Ito, his methods differ from the common regression / RSA, and that's a good thing.
     * __*Compositional generalization through abstract representations in human and artificial neural networks*__: Another Takuya Ito, worth it for the dataset.
-    
+  * ####  __Other Cognitive Neuroscience__
+    * __*Reconstructing visual illusory experiences from human brain activity*__: Reconstructing what we are looking at from brain activity was not enough for Kamitani, instead he also reconstructs subjective experience such as illusions  
+* ###  __(Multi-Modal) Large Language Models__
+  * ####  __The Classics__
+    * __*LLaMA: Open and Efficient Foundation Language Models*__ : The one and only original open LLM
+    * __*SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions*__ : The jump from GPT-3 to ChatGPT. How to train networks to follow isntructions and complete tasks. I argue it's mostly just stylistic alligment
+    * __*Evaluating Moral Beliefs Encoded in LLMs*__ : Another prompt, another PR nightmare... LLMs are laying waste to the creative industries, but will Roko's basilisk be woke? 
