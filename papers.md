@@ -17,7 +17,7 @@ If you are a member of the lab, email me and I will send a drive link for pdfs w
     * __*Helpless infants are learning a foundation model*__: Why are human babies useless? they are training a MMLLM!
   * ####  __Motor Functions and Embodied Intelligence__
     * __*Your head is there to move you around: Goal-driven models of the primate dorsal pathway*__: All the papers so far focused on the ventral (what / semantic) brain pathway, here we look at the dorsal (motor / movement / where) pathway
-    * __*The functional specialization of visual cortex emerges from training parallel pathways with self-supervised predictive learning*__: So your brain has to pathways (we think), should your network?
+    * __*The functional specialization of visual cortex emerges from training parallel pathways with self-supervised predictive learning*__: Your brain has two pathways (we think), should your network?
     * __*Multitask representations in the human cortex transform along a sensory-to-motor hierarchy*__: Follow Takuya Ito, his methods differ from the common regression / RSA, and that's a good thing.
     * __*Compositional generalization through abstract representations in human and artificial neural networks*__: Another Takuya Ito, worth it for the dataset.
   * ####  __Other Cognitive Neuroscience__
