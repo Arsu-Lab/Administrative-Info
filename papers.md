@@ -26,4 +26,9 @@ If you are a member of the lab, email me and I will send a drive link for pdfs w
   * ####  __The Classics__
     * __*LLaMA: Open and Efficient Foundation Language Models*__ : The one and only original open LLM
     * __*SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions*__ : The jump from GPT-3 to ChatGPT. How to train networks to follow isntructions and complete tasks. I argue it's mostly just stylistic alligment
-    * __*Evaluating Moral Beliefs Encoded in LLMs*__ : Another prompt, another PR nightmare... LLMs are laying waste to the creative industries, but will Roko's basilisk be woke? 
+    * __*Evaluating Moral Beliefs Encoded in LLMs*__ : Another prompt, another PR nightmare... LLMs are laying waste to the creative industries, but will Roko's basilisk be woke?
+* ###  __Philosophy__  
+  * ####  __Are Neural Networks Cognitive Models?__
+    * __*The Neuroconnectionist Research Programme*__ : What can computational models actually tell us? very important discussion, but I disagree with most of this paper.
+  * ####  __Other__
+    * __*Memory as a cognitive kind: Brains, remembering dyads, and exograms*__ : What is a kind / Class / Group? Are cognitive mechanisims such as attention and memory just a story cognitive psychologist tell themselves? 
