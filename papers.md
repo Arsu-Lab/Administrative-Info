@@ -10,7 +10,8 @@ If you are a member of the lab, email me and I will send a drive link for pdfs w
     * __*Unsupervised neural network models of the ventral visual stream*__ : Really well written and interesting
     * __*Brain-like functional specialization emerges spontaneously in deep neural networks*__ : As a graduate student Nancy Kanwisher discovered that brain regions such as the FFA are specialized to perform specific tasks, she collaborates with her previous-student (Kathrine Dobs) on work that uses ANN to answer questions regarding why and where this specialization emerges. Their labs are good ones to follow. 
     * __*Driving and suppressing the human language network using large language models*__ : Using LLM embeddings to predict brain activation
-    * __*Joint processing of linguistic properties in brains and language models*__ : Using LLM embeddings to specifically detect what different brain regions encode 
+    * __*Joint processing of linguistic properties in brains and language models*__ : Using LLM embeddings to specifically detect what different brain regions encode
+    * __*Monkey See, Model Knew*__ : Somehow language models can predict visual cortex acrtivity in monkeys, what does that mean for neuroAI? ([paper](https://www.biorxiv.org/content/10.1101/2025.03.05.641284v2.full.pdf))
   * ####  __Language Acquisition__
     * __*Self-supervised learning through the eyes of a child*__: Chomsky talked about the poverty of stimuli as a motivation for the necessity of innate language processes, computational results here complicate this debate.
     * __*Grounded language acquisition through the eyes and ears of a single child*__: Similar ideas, improved execution!
@@ -27,6 +28,9 @@ If you are a member of the lab, email me and I will send a drive link for pdfs w
     * __*LLaMA: Open and Efficient Foundation Language Models*__ : The one and only original open LLM
     * __*SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions*__ : The jump from GPT-3 to ChatGPT. How to train networks to follow isntructions and complete tasks. I argue it's mostly just stylistic alligment
     * __*Evaluating Moral Beliefs Encoded in LLMs*__ : Another prompt, another PR nightmare... LLMs are laying waste to the creative industries, but will Roko's basilisk be woke?
+* ###  __Sel-Supervised Methods__
+  * ####  __The Classics__
+    * __*Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture*__ :  LeCunn's answer to LLMs.. the JEPA  ([paper](https://arxiv.org/abs/2301.08243))
 * ###  __Philosophy__  
   * ####  __Are Neural Networks Cognitive Models?__
     * __*The Neuroconnectionist Research Programme*__ : What can computational models actually tell us? very important discussion, but I disagree with most of this paper.
